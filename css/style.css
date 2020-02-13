@@ -358,4 +358,67 @@ section.resume-section .resume-item .resume-date {
   color: #0a131b;
 }
 
-/*  */
+/*skills */
+
+#skills {
+  background-image: url("../image/bg-stats.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.skill-cover {
+  background-color: rgba(31, 31, 31, 0.68); 
+}
+
+.skill-cover h3{
+font-family: "hind", sans-serif;
+font-size: 35px;
+margin-bottom: 40px;
+}
+
+#diamond {
+  color: #da1515 ;
+}
+
+.ruby {
+  color: #da1515;
+  font-size: 72px;
+}
+
+
+#bold {
+  color: #121213;
+  font-size: 75px;
+  font-weight: 900;
+}
+
+.data {
+  font-size: 75px;
+}
+
+.skill-item {
+  padding: 20px 0;
+  margin-bottom: 30px;
+  background: rgba(144, 144, 144, 0.78);
+}
+
+.skill-item i {
+  color: #2196f3;
+}
+
+.skill-item h2 {
+  color: #fff;
+  font-size: "hind", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 1px;
+}
+
+.skill-item p {
+  color: #fff;
+  font-family: "hind", sans-serif;
+  font-weight: 300;
+  margin-top: 0;
+}
